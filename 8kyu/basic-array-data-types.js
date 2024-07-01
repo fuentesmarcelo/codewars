@@ -7,6 +7,7 @@
 
 
 
+
 // my solutions
 function getLength(arr){
     //return length of arr
