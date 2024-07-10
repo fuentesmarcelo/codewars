@@ -1,3 +1,4 @@
+// PREP 2024-07-09
 // In this Kata we are passing a number (n) into a function.
 
 // Your code will determine if the number passed is even (or not).
@@ -8,7 +9,8 @@
 
 // Floats with decimal part non equal to zero are considered UNeven for this kata.
 
-
+// P: n
+// R: return num if even or not if false
 
 //my solutions
 function testEven(n){
