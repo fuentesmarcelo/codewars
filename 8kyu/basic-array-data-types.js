@@ -1,8 +1,9 @@
-// PREP July 1st, 2024
+// PREP 2024 - 07 - 01
 //I've written five functions. Each function receives a parameter arr which is an array. Complete the functions using arr inside the function bodies.
 
 // P: parameters are given in individual problems
 // R: return length of arr, return the first element of arr, return the last element of arr, push el to arr, pop an element from arr
+
 
 
 
