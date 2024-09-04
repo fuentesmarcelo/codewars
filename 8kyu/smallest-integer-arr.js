@@ -19,4 +19,4 @@ function findSmallestInt(arr) {
 function findSmallestInt(arr) {
     let sortedNums = arr.sort((a, b) => a - b)
     return sortedNums[0];
-}
+} 
