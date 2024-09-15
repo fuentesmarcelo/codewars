@@ -16,4 +16,4 @@ function sumMix(x){
 
 // my solution
 
-const sumMix=x=>x.reduce((a,b)=>+b+a,0
+const sumMix=x=>x.reduce((a,b)=>+b+a,0)
