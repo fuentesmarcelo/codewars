@@ -17,3 +17,6 @@ var templateStrings = function(noun, adjective) {
 var templateStrings = function(noun, adjective) {
     return `${noun} are ${adjective}`
 }
+
+
+let TempleStrings = (obj, feature) => `${obj} are ${feature}`;
