@@ -23,9 +23,14 @@ function findAverage(array) {
 // my solution
 
 function findAverage(array) {
-    let sum = 0
-    for(let i = 0; i <array.length; i++){
+    if (array.length === 0) return 0; // Handle empty array case
+    let sum = 0 
+    for(let i = 0; i < array.length; i++){
       sum += array[i]
     }
     return sum/array.length;
 }
+
+const find_average = array => array.reduce((acc, curr) => acc + curr, 0) / array.length || 0;
+
+
